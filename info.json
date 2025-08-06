@@ -1,0 +1,12 @@
+{
+	"name": "Shisha Menu",
+	"version": "1.0.1",
+	"homepage": "https://example.com/shisha-menu",
+	"author": "Your Name",
+	"description": "Ein Elementor Widget für Shisha-Bar Menükarten mit Tabak-Sorten, Getränken und Snacks.",
+	"changelog": "<h4>Version 1.0.1</h4><ul><li>Verbesserte Elementor-Kompatibilität</li><li>Widget-Registrierung optimiert</li><li>Debug-Modus hinzugefügt</li></ul><h4>Version 1.0.0</h4><ul><li>Erste Veröffentlichung</li></ul>",
+	"download_url": "https://example.com/downloads/shisha-menu-1.0.1.zip",
+	"tested": "6.6",
+	"requires": "6.0",
+	"requires_php": "7.4"
+}
